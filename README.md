@@ -2,11 +2,12 @@ WebPageTemplate
 ===============
 ### Create Tables
 >run tables.sql inside <b>SQL</b> directory. 
-<br> 
+
 ``` 
 shell> mysql < SQL/tables.sql
 ```
-<br>notice might need to change .sql to nothing
+>notice might need to change .sql to nothing
+
 ### Change Data
 ##### Directory: php
 <ul>
