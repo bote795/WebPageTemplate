@@ -5,6 +5,9 @@ WebPageTemplate
 
 ``` 
 shell> mysql < SQL/tables.sql
+or 
+mysql> source file_name
+mysql> \. file_name
 ```
 >notice might need to change .sql to nothing
 
