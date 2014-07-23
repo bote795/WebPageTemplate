@@ -1,5 +1,5 @@
 <html>
-  <?php $root="/HelpMeCampus"; ?>
+  <?php $root="/WebPageTemplate"; ?>
   <script src="<?php echo $root; ?>/js/jquery.validate.js"></script>
   <script src="<?php echo $root; ?>/js/sign_in_validate.js"></script>
 <body>
