@@ -10,13 +10,14 @@ shell> mysql < SQL/tables.sql
 
 ### Change Data
 ##### Directory: php
-<ul>
+><ul>
 <li>nav.php</li>
 <li>user_nav.php</li>
 </ul>
 >need to change $root to name of directory
+
 ##### Directory: php
-<ul>
+><ul>
 <li>connect.phpp</li>
 </ul>
 >need to change login data for mysql
