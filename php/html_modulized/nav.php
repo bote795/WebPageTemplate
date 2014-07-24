@@ -1,5 +1,6 @@
 <html>
   <?php $root="/WebPageTemplate"; ?>
+   <?php $webpage_name="Template"; ?>
   <script src="<?php echo $root; ?>/js/jquery.validate.js"></script>
   <script src="<?php echo $root; ?>/js/sign_in_validate.js"></script>
 <body>
@@ -12,7 +13,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">HelpMeCampus</a>
+          <a class="navbar-brand" href="#"><?php echo $webpage_name; ?></a>
         </div>
         <div class="navbar-collapse collapse">
           <form id="signin" class="navbar-form navbar-right" role="form"  method="post" action="php/authenticate.php"> <!--form --->

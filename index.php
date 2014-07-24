@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Help Me Campus</title>
+	<title>TEMPLATE</title>
 	<script src="js/jquery-2.0.2.min.js"></script>
     <script src="bootstrap/bootstrap.min.js"></script>
     <link rel="stylesheet" type="text/css" href="bootstrap/bootstrap.min.css" media="screen" />

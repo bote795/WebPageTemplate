@@ -1,6 +1,7 @@
 <html>
 <?php 
 	$root = "/WebPageTemplate";
+	$webpage_name="Template";
 ?>
   <body>
 	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
@@ -12,7 +13,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="<?php echo $root; ?>/index.php">HelpMeCampus</a>
+          <a class="navbar-brand" href="<?php echo $root; ?>/index.php"><?php echo $webpage_name; ?></a>
           <a class="navbar-brand" href="<?php echo $root; ?>/pages/user.php">Home</a>
           <a class="navbar-brand" href="<?php echo $root; ?>/php/signout.php">Sign Out</a>
         </div>

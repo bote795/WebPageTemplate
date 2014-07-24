@@ -21,9 +21,17 @@ mysql> \. file_name
 
 ##### Directory: php
 ><ul>
-<li>connect.phpp</li>
+<li>connect.php</li>
 </ul>
 >need to change login data for mysql
+
+##### Directory: php
+><ul>
+<li>nav.php</li>
+<li>user_nav.php</li>
+<li>inside main directoy index.php as well</li>
+</ul>
+>need to change $webpage_name to name of website
 
 constructed with the use of [liveMD](http://tmpvar.com/markdown.html)
 
